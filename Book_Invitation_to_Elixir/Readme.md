@@ -7,6 +7,7 @@
 |1|4.5.2、4.6.6|50、60、61|router.exs|router.ex|
 |2|5.6.1|89|git clone https://github.com/nerves-project/nerves_examples|git clone https://github.com/nerves-project/nerves_examples.git|
 |3|4.4|47|{:phoenix_live_view, github: "phoenixframework/phoenix_live_view"},|{:phoenix_live_view, "0.1.1"},|
+|4|1.4|13|RERP|REPL|
 
 
 ### 補足:
