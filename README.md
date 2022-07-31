@@ -8,3 +8,4 @@ URAMASUで頒布した技術同人誌の正誤表
 * [`育児休業のススメ 〜アラフォーITエンジニアの育休体験記〜`](Book_Childcare_Leave/README.md)
 * [`Elixirへのいざない　Let's try Nx`](Book_Invitation_to_Elixir_TryNx/README.md)
 * [`Elixirへのいざない　ネイティブアプリを錬金しよう`](Book_Invitation_to_Elixir_Desktop/README.md)
+* [`Gleamdoどうわ`](Book_Guidance_to_Gleam/README.md)
