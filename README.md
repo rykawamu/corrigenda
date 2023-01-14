@@ -9,3 +9,4 @@ URAMASUで頒布した技術同人誌の正誤表
 * [`Elixirへのいざない　Let's try Nx`](Book_Invitation_to_Elixir_TryNx/README.md)
 * [`Elixirへのいざない　ネイティブアプリを錬金しよう`](Book_Invitation_to_Elixir_Desktop/README.md)
 * [`Gleamどうわ`](Book_Guidance_to_Gleam/README.md)
+* [`Gleamどうわ2nd`](Book_Guidance_to_Gleam_2nd/README.md)
